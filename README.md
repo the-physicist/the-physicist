@@ -18,12 +18,12 @@
 
 ```python
 
-# Shot description about me in a cool way
+# Short description about me in a cool way
 
-def aboutMe():
+def about_me():
   name = "Marcos Oliveira"
   pronouns = "he/him"
-  currentCountry = "Brazil"
+  current_country = "Brazil"
   role = "Physics Teacher"
 
 def favs():
@@ -32,16 +32,13 @@ def favs():
   cinema = ['Freedom Writers', 'Shigatsu wa Kimi no Uso', 'HIMYM']
   books = ['The Name of the Wind', 'The Demon-Haunted World', 'Harry Potter']
   physics = ['Particle Physics', 'Cosmology']
- 
-  
-# There is probably an error in the code above as I'm still learning, so don't take it too seriously.
 ```
 
 <!--########### Languages I studied a bit ###########-->
-<div>
-  <h3 align="left">Languages and tools I have basic notions</h3>
+<div align="center">
+  <h3>Languages and tools I have basic notions</h3>
 
-  <p align="left">
+  <p>
     <a href="https://lua.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua logo" width="60" height="60"/> </a> 
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php logo" width="60" height="60"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="60" height="60"/> </a> 
@@ -51,10 +48,10 @@ def favs():
 </div>
 
 <!--########### Languages I'm focusing now ###########-->
-<div>
-  <h3 align="left">Languages and tools I'm focusing now</h3>
+<div  align="center">
+  <h3>Languages and tools I'm focusing now</h3>
 
-  <p align="left"> 
+  <p> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="60" height="60"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="60" height="60"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="60" height="60"/> </a>	
@@ -63,17 +60,17 @@ def favs():
 </div>
 <!--########### Languages I want to learn ###########-->
 
-<div>
-  <h3 align="left">Languages and tools I want to learn</h3>
+<div align="center">
+  <h3>Languages and tools I want to learn</h3>
 
-  <p align="left">
+  <p>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs logo" width="60" height="60"/> </a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" width="80" height="80"/> </a>
   </p>
 </div>
 
 <!--########### Contact me please ###########-->
-<div>
+<div align="center">
   <h3>📬 Connect with me:</h3>
   <a href="mailto:email.marcos.oliveira@gmail.com">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
@@ -86,7 +83,7 @@ def favs():
   </a>
 </div>
 
-<!--########### My Stats ###########-->
+<!--########### My Stats ###########
 
 <div>
   <a href="https://github.com/the-physicist">
