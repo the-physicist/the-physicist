@@ -47,9 +47,9 @@ def favs():
   </p>
 </div>
 
-<!--########### Languages I'm focusing now ###########-->
+<!--########### Languages I have experience ###########-->
 <div  align="center">
-  <h3>Languages and tools I'm focusing now</h3>
+  <h3>Languages and tools I have experience</h3>
 
   <p> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="60" height="60"/> </a> 
@@ -83,9 +83,13 @@ def favs():
   </a>
 </div>
 
-<!--########### My Stats ###########
 
-<div>
+<!--########### My Stats ########### 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-physicist&langs_count=8)](https://github.com/the-physicist/github-readme-stats)
+
+<!--<div>
   <a href="https://github.com/the-physicist">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-physicist&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-physicist&layout=compact&langs_count=7&theme=dark"/>
