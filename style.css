@@ -1,0 +1,15 @@
+img[src="my-github-profile-cover.gif"] {
+  max-height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+table {
+  margin: 0 auto;
+  border: 1px solid #fff;
+}
+
+table td {
+  text-align: center;
+  padding: 10px;
+}
