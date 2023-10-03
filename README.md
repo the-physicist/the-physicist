@@ -131,7 +131,7 @@
     <a href="https://www.instagram.com/particlemarcos/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="meu perfil no instagram">
     </a>
-    <a href="http://lattes.cnpq.br/7927460489443885">
+    <a href="http://lattes.cnpq.br/7927460489449153">
       <img src="https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&amp;logo=Lattes&amp;logoColor=white" alt="meu perfil no lattes">
     </a>
 
