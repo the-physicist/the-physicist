@@ -16,7 +16,7 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<img align="right" width=200px height=150px alt="side_sticker" src="https://gifdb.com/images/high/virtual-youtuber-computer-hacking-4b66n1yzgy3l9apj.gif" />
+<img align="right" width=200px height=150px alt="side_sticker" src="https://31.media.tumblr.com/4f988e5c43973ebe7da003264c1e7dad/tumblr_nlksbd3IAj1rpco88o2_r1_540.gif" />
 
 ✔ I'm a physics teacher passionate about technology. <br>
 ✔ My main hobbies are games, cinema and I'm also a hacking enthusiast. <br>
@@ -30,6 +30,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Main technologies I work with
+<img align="right" width=200px height=150px alt="side_sticker" src="https://i.imgur.com/MqPEZ5g.gif" />
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
@@ -47,7 +48,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)<br/>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
