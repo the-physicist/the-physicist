@@ -5,15 +5,35 @@
       alt="Many equations written in white floating in a blackboard"
     />
   </div>
-
+  <br>
   <!-- **About Me** -->
-  <hr>
+
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1500&pause=500&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Marcos!;A+FullStack+Web+Developer%2C;Learner%2C+teacher+and+researcher%2C;I+love+physics%2C+math+and+tech%2C;And+I+try+to+help+people+with+that." alt="Typing SVG" /></a>
+  </div>
+
+<!--   <hr>
   <div>
     <p>Hello, I'm Marcos Oliveira, currently residing in Brazil. I have a degree in Physics and now I'm a Web FullStack Developer. I'm passionate about problem-solving and learning new things, which motivates me both in physics and programming.</p>
     <p>In my adolescence, I developed private game servers using Lua, which introduced me to programming and databases. I also created small websites using PHP and JavaScript. My journey eventually led me to physics, but my passion for programming never faded. I'm continuously learning and exploring web development and infosec.</p>
   </div>
-  <hr>
+  <hr> -->
 
+  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+✔ I'm a physics teacher passionate about technology. <br>
+✔ My main hobbies are games, cinema and I'm also a hacking enthusiast. <br>
+✔ In my free time I develop personal projects and colaborate with open source projects. <br>
+✔ I make constant efforts to make science and technology available in my language (Portuguese-BR). <br>
+✔ I am currently strengthening my theoretical base and learning new technologies. <br>
+✔ I’m currently open for a new job opportunity, check my skills bellow and contac me if I fit you! <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
   <div align="center">
     <h3>Main technologies I work with</h3>
     <table>
@@ -135,7 +155,7 @@
       <img src="https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&amp;logo=Lattes&amp;logoColor=white" alt="meu perfil no lattes">
     </a>
 
-<br>
+<br><br>
 
 <div align='center'>
    <a href="https://github.com/the-physicist">
